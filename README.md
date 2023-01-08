@@ -1,2 +1,2 @@
 # Benchmark
-Benchmark  between Algorithms
+Code example using BenchmarkDotNet to compare algorithms
