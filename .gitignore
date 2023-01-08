@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Benchmark/.vs/Benchmark
+/Benchmark/Benchmark/bin
+/Benchmark/Benchmark/obj/Debug/net5.0
+/Benchmark/Benchmark/obj/Release/net5.0
+/Benchmark/Benchmark/obj
