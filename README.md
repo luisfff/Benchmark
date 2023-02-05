@@ -12,9 +12,9 @@ Output of performance metrics such as mean execution time and standard deviation
 
 Clone the repository: git clone https://github.com/luisfff/benchmark
 
-Restore dependencies: dotnet restore
+Restore dependencies: `dotnet restore`
 
-Run the benchmarks: dotnet run
+Run the benchmarks: `dotnet run`
 
 The output will show the comparison of the algorithms
 
